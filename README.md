@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left"># 💫 About Me: Hello' Everyone Welcome to my About Section<br>I'm Aspiring to be an AI Android Developer || Wanted to Bring an Powerful Application that Will make our country Represent Globally around the world<br><br>🌱 I’m currently learning **AI ML / Flutter **<br><br>💬 Ask me about Android Support</h2>
+<h2 align="left"># 💫 About Me: Hello' Everyone Welcome to my About Section<br>AI & Automation Enthusiast | GenAI Learner | Building AI-Powered Apps & Workflows | Flutter • Android • Python • n8n</h2>
 
 ###
 
